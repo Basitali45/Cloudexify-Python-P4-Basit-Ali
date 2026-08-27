@@ -4,7 +4,7 @@ CloudExify Python Internship — Month 2, Project 4 (Final Project)
 Name: [Basit Ali]
 Registration Number: [CX-INT-2026-PY_0160]
 
-An original, class-based implementation (not copied from the course handout):
+An original, class-based implementation:
 a `Task` class models one item, a `TaskVault` class owns the collection and
 all file I/O, and thin `handle_*()` functions do the console input/output.
 Due dates are stored and compared as real `date` objects instead of strings.

@@ -1,8 +1,8 @@
 # Task Vault — To-Do List Manager
 
 CloudExify Python Internship — Month 2, Project 4 (Final Project)
-**Name:** Basit Ali
-**Registration Number:**CX-INT-2026-PY_0160
+Name: Basit Ali
+Registration Number: CX-INT-2026-PY_0160
 
 An original, class-based implementation (not copied from the course handout):
 a `Task` class models one item, a `TaskVault` class owns the collection and
